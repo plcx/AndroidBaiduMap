@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/option_normal_1"
+        android:title="管理员登入" />
+
+    <item android:id="@+id/option_normal_2"
+        android:title="管理员注册" />
+
+    <item android:id="@+id/option_normal_3"
+        android:title="划定活动区" />
+
+    <item android:id="@+id/option_normal_4"
+        android:title="疫情动态" />
+
+</menu>
